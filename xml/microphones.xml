@@ -1,0 +1,183 @@
+<product>
+
+    <mic>
+        <name>Shure SM57</name>
+        <type>Dynamic</type>
+        <connector>XLR</connector>
+        <description>
+            Clear and present sound that's great for a wide range of sources
+            Exceptional versatility onstage and in the studio
+            Built to withstand a lifetime of serious abuse
+        </description>
+        <price>$89.00</price>
+    </mic>
+
+    <mic>
+        <name>Rode NT1-A</name>
+        <type>Condenser</type>
+        <connector>XLR</connector>
+        <description>
+            One of the world's quietest microphones
+            Effortlessly captures clear, clean audio
+            Affordable studio solution that won't distort due to overload
+        </description>
+        <price>$198.00</price>
+    </mic>
+
+    <mic>
+        <name>AKG C414 XLS</name>
+        <type>Condenser</type>
+        <connector>XLR</connector>
+        <description>
+            Microphone of choice for lead artists in the industry in all genres for the last 60 years
+            Needs little instruction
+            Impressive versatility
+        </description>
+        <price>$696.60</price>
+    </mic>
+
+    <mic>
+        <name>Sennheiser MD421</name>
+        <type>Dynamic</type>
+        <connector>XLR</connector>
+        <description>
+            Excellent sound qualities that enable it to cope with the most diverse recording conditions
+            Feedback rejection and bass roll-off
+            Sturdy, reliable mic
+        </description>
+        <price>$379.95</price>
+    </mic>
+
+    <mic>
+        <name>Shure SM7B</name>
+        <type>Dynamic</type>
+        <connector>XLR</connector>
+        <description>
+            Amazing mic for both broadcast and recording
+            Flat, wide range frequency response
+            Will give years of great sound and performance
+        </description>
+        <price>$399.99</price>
+    </mic>
+
+    <mic>
+        <name>Shure SM58</name>
+        <type>Dynamic</type>
+        <connector>XLR</connector>
+        <description>
+            Most popular handheld microphone in the world
+            Perfect for use live on stage or in your studio
+            Legendary Shure quality, ruggedness, and reliability
+        </description>
+        <price>$89.99</price>
+    </mic>
+
+    <mic>
+        <name>Rode NTK</name>
+        <type>Tube Condenser</type>
+        <connector>XLR</connector>
+        <description>
+            The NTK can more than hold its own against sought-after vintage microphones that cost several times as much
+             Brings you the best of the classic and modern sonic worlds
+             Far more than you expect for the money
+        </description>
+        <price>$529.00</price>
+    </mic>
+
+    <mic>
+        <name>Electrovoice RE20</name>
+        <type>Dynamic</type>
+        <connector>XLR</connector>
+        <description>
+            Smooth across a wide spectrum of frequencies
+            Virtually free of bass-boosting "proximity effect" when used close
+            Great for acoustic and electric bass and kick drum
+        </description>
+        <price>$449.00</price>
+    </mic>
+
+    <mic>
+        <name>AKG D112</name>
+        <type>Dynamic</type>
+        <connector>XLR</connector>
+        <description>
+            Kick drum standard mic for years
+            Used anywhere low frequency performance is a must
+            Its integrated flexible mount ensures you can always position it where it needs to be
+        </description>
+        <price>$179.99</price>
+    </mic>
+
+    <mic>
+        <name>Blue Yeti</name>
+        <type>Condenser</type>
+        <connector>USB</connector>
+        <description>
+            The Yeti Studio captures great-sounding vocals
+            Record, edit, and more with PreSonus Studio One Artist
+            Sweeten your vocals with iZotope Nectar Elements
+        </description>
+        <price>$189.99</price>
+    </mic>
+
+    <mic>
+        <name>Samson Meteor</name>
+        <type>Condenser</type>
+        <connector>USB</connector>
+        <description>
+            Stylish design with integrated folding legs
+            Well-suited for studio recording as it is for mobile work
+            Provides a smooth frequency response across the spectrum
+        </description>
+        <price>$59.99</price>
+    </mic>
+
+    <mic>
+        <name>Audio-Technica AT2020USB</name>
+        <type>Condenser</type>
+        <connector>USB</connector>
+        <description>
+            Smooth, extended frequency response
+            Crystal-clear, natural sound for podcasting, home studio recording, field recording, and voiceover use
+            Ideal for project/home-studio applications
+        </description>
+        <price>$169.99</price>
+    </mic>
+
+    <mic>
+        <name>Rode NT-USB</name>
+        <type>Condenser</type>
+        <connector>USB</connector>
+        <description>
+            Cross-platform compatibility makes for a versatile recording solution
+            Stereo headphone jack for zero-latency monitoring
+            All-in-one package lets you start recording straight out of the box
+        </description>
+        <price>$169.00</price>
+    </mic>
+
+    <mic>
+        <name>Blue Snowball</name>
+        <type>Condenser</type>
+        <connector>USB</connector>
+        <description>
+            Excellent vocal reproduction
+            Versatile instrument microphone
+            Includes a stand and USB cable
+        </description>
+        <price>$49.99</price>
+    </mic>
+
+    <mic>
+        <name>Shure PG42</name>
+        <type>Condenser</type>
+        <connector>USB</connector>
+        <description>
+            Tailored for voice, but suitable for detailed pickup of any source
+            Zero latency monitoring
+            Plug and Play connectivity
+        </description>
+        <price>$86.00</price>
+    </mic>
+
+</product>
