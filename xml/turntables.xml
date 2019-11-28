@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+
+    <turntable>
+        <brand>Audio-Technica</brand>
+        <model>AT-LP120-USB</model>
+        <type>3 Speed</type>
+        <price>299.99</price>
+    </turntable>
+
+    <turntable>
+        <brand>Audio-Technica</brand>
+        <model>AT-LP60XUSB</model>
+        <type>Belt-Drive</type>
+        <price>129.99</price>
+    </turntable>
+
+    <turntable>
+        <brand>Denon</brand>
+        <model>DP-450</model>
+        <type>Belt-Drive</type>
+        <price>599.00</price>
+    </turntable>
+
+    <turntable>
+        <brand>Numark</brand>
+        <model>PT01USB</model>
+        <type>USB</type>
+        <price>119.00</price>
+    </turntable>
+
+    <turntable>
+        <brand>Pioneer Electronics</brand>
+        <model>PLX-1000</model>
+        <type>Quartz lock serve type direct drive</type>
+        <price>699.99</price>
+    </turntable>
+
+    <turntable>
+        <brand>Reloop</brand>
+        <model>RP-8000</model>
+        <type>Manual quartz direct drive turntable</type>
+        <price>699.99</price>
+    </turntable>
+
+    <turntable>
+        <brand>Pioneer Electronics</brand>
+        <model>PL-30-K</model>
+        <type>Belt-Drive</type>
+        <price>299.00</price>
+    </turntable>
+
+    <turntable>
+        <brand>Reloop</brand>
+        <model>RP-2000M</model>
+        <type>2 Speed</type>
+        <price>299.99</price>
+    </turntable>
+
+    <turntable>
+        <brand>Audio-Technica</brand>
+        <model>AT-LP60XBT</model>
+        <type>Belt-Drive</type>
+        <price>149.00</price>
+    </turntable>
+
+    <turntable>
+        <brand>Audio-Technica</brand>
+        <model>AT-LP60X</model>
+        <type>Belt-Drive</type>
+        <price>99.99</price>
+    </turntable>
+
+    <turntable>
+        <brand>Numark</brand>
+        <model>PT01</model>
+        <type>USB</type>
+        <price>149.99</price>
+    </turntable>
+
+    <turntable>
+        <brand>Denon</brand>
+        <model>VL12</model>
+        <type>Quartz direct-drive</type>
+        <price>899.00</price>
+    </turntable>
+
+    <turntable>
+        <brand>Denon</brand>
+        <model>DP-300F</model>
+        <type>Belt-Drive</type>
+        <price>329.00</price>
+    </turntable>
+
+    <turntable>
+        <brand>Gemini</brand>
+        <model>TT-1000USB</model>
+        <type>Belt-Drive</type>
+        <price>139.95</price>
+    </turntable>
+
+    <turntable>
+        <brand>Audio-Technica</brand>
+        <model>AT-LP60</model>
+        <type>Belt-Drive</type>
+        <price>99.00</price>
+    </turntable>
+
+
+</product>

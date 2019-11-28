@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <product>
 
     <mic>
@@ -9,7 +10,7 @@
             Exceptional versatility onstage and in the studio
             Built to withstand a lifetime of serious abuse
         </description>
-        <price>$89.00</price>
+        <price>89.00</price>
     </mic>
 
     <mic>
@@ -21,7 +22,7 @@
             Effortlessly captures clear, clean audio
             Affordable studio solution that won't distort due to overload
         </description>
-        <price>$198.00</price>
+        <price>198.00</price>
     </mic>
 
     <mic>
@@ -33,7 +34,7 @@
             Needs little instruction
             Impressive versatility
         </description>
-        <price>$696.60</price>
+        <price>696.60</price>
     </mic>
 
     <mic>
@@ -45,7 +46,7 @@
             Feedback rejection and bass roll-off
             Sturdy, reliable mic
         </description>
-        <price>$379.95</price>
+        <price>379.95</price>
     </mic>
 
     <mic>
@@ -57,7 +58,7 @@
             Flat, wide range frequency response
             Will give years of great sound and performance
         </description>
-        <price>$399.99</price>
+        <price>399.99</price>
     </mic>
 
     <mic>
@@ -69,7 +70,7 @@
             Perfect for use live on stage or in your studio
             Legendary Shure quality, ruggedness, and reliability
         </description>
-        <price>$89.99</price>
+        <price>89.99</price>
     </mic>
 
     <mic>
@@ -81,7 +82,7 @@
              Brings you the best of the classic and modern sonic worlds
              Far more than you expect for the money
         </description>
-        <price>$529.00</price>
+        <price>529.00</price>
     </mic>
 
     <mic>
@@ -93,7 +94,7 @@
             Virtually free of bass-boosting "proximity effect" when used close
             Great for acoustic and electric bass and kick drum
         </description>
-        <price>$449.00</price>
+        <price>449.00</price>
     </mic>
 
     <mic>
@@ -105,7 +106,7 @@
             Used anywhere low frequency performance is a must
             Its integrated flexible mount ensures you can always position it where it needs to be
         </description>
-        <price>$179.99</price>
+        <price>179.99</price>
     </mic>
 
     <mic>
@@ -117,7 +118,7 @@
             Record, edit, and more with PreSonus Studio One Artist
             Sweeten your vocals with iZotope Nectar Elements
         </description>
-        <price>$189.99</price>
+        <price>189.99</price>
     </mic>
 
     <mic>
@@ -129,7 +130,7 @@
             Well-suited for studio recording as it is for mobile work
             Provides a smooth frequency response across the spectrum
         </description>
-        <price>$59.99</price>
+        <price>59.99</price>
     </mic>
 
     <mic>
@@ -141,7 +142,7 @@
             Crystal-clear, natural sound for podcasting, home studio recording, field recording, and voiceover use
             Ideal for project/home-studio applications
         </description>
-        <price>$169.99</price>
+        <price>169.99</price>
     </mic>
 
     <mic>
@@ -153,7 +154,7 @@
             Stereo headphone jack for zero-latency monitoring
             All-in-one package lets you start recording straight out of the box
         </description>
-        <price>$169.00</price>
+        <price>169.00</price>
     </mic>
 
     <mic>
@@ -165,7 +166,7 @@
             Versatile instrument microphone
             Includes a stand and USB cable
         </description>
-        <price>$49.99</price>
+        <price>49.99</price>
     </mic>
 
     <mic>
@@ -177,7 +178,7 @@
             Zero latency monitoring
             Plug and Play connectivity
         </description>
-        <price>$86.00</price>
+        <price>86.00</price>
     </mic>
 
 </product>

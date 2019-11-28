@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+
+    <headphone>
+        <brand>Sony</brand>
+        <model>WH-XB900N</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>30</battery_life>
+        <price>248.00</price>
+    </headphone>
+
+    <headphone>
+        <brand>Sony</brand>
+        <model>WH-XB700</model>
+        <noise_cancel>false</noise_cancel>
+        <type>On Ear</type>
+        <battery_life>30</battery_life>
+        <price>90.00</price>
+    </headphone>
+
+    <headphone>
+        <brand>Sony</brand>
+        <model>WH-CH700N</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>35</battery_life>
+        <price>198.00</price>
+    </headphone>
+
+    <headphone>
+        <brand>Beats</brand>
+        <model>Solo3 Wireless</model>
+        <noise_cancel>false</noise_cancel>
+        <type>On Ear</type>
+        <battery_life>40</battery_life>
+        <price>164.99</price>
+    </headphone>
+
+    <headphone>
+        <brand>Beats</brand>
+        <model>Studio3 Wireless</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>22</battery_life>
+        <price>349.95</price>
+    </headphone>
+
+    <headphone>
+        <brand>COWIN</brand>
+        <model>E7 Pro</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>30</battery_life>
+        <price>89.99</price>
+    </headphone>
+
+    <headphone>
+        <brand>COWIN</brand>
+        <model>E7 Active</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>30</battery_life>
+        <price>59.99</price>
+    </headphone>
+
+    <headphone>
+        <brand>Bose</brand>
+        <model>QuietComfort 35 II</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>20</battery_life>
+        <price>349.00</price>
+    </headphone>
+
+    <headphone>
+        <brand>Bose</brand>
+        <model>Headphones 700</model>
+        <noise_cancel>false</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>20</battery_life>
+        <price>399.99</price>
+    </headphone>
+
+    <headphone>
+        <brand>Anker</brand>
+        <model>Life Q10</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>60</battery_life>
+        <price>33.99</price>
+    </headphone>
+
+    <headphone>
+        <brand>Anker</brand>
+        <model>Life Q20</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>60</battery_life>
+        <price>59.99</price>
+    </headphone>
+
+    <headphone>
+        <brand>Mpow</brand>
+        <model>H7</model>
+        <noise_cancel>false</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>18</battery_life>
+        <price>21.99</price>
+    </headphone>
+
+    <headphone>
+        <brand>Mpow</brand>
+        <model>H20</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>30</battery_life>
+        <price>39.99</price>
+    </headphone>
+
+    <headphone>
+        <brand>iJoy</brand>
+        <model>Stealth</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>10</battery_life>
+        <price>16.99</price>
+    </headphone>
+
+    <headphone>
+        <brand>Sony</brand>
+        <model>WH-1000XM3</model>
+        <noise_cancel>true</noise_cancel>
+        <type>Over Ear</type>
+        <battery_life>30</battery_life>
+        <price>348.00</price>
+    </headphone>
+
+</product>

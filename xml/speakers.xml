@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+
+    <speaker>
+        <brand>Mackie</brand>
+        <model>CR3</model>
+        <power>50W</power>
+        <finish>Black vinyl wrap</finish>
+        <price>89.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>JPL</brand>
+        <model>MkII Powered 6.5"</model>
+        <power>100VAC - 240VAC</power>
+        <finish>Matte Black PVC</finish>
+        <price>119.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>PreSonus</brand>
+        <model>Eris E5</model>
+        <power>100V</power>
+        <finish>Matte Black</finish>
+        <price>99.95</price>
+    </speaker>
+
+    <speaker>
+        <brand>Mackie</brand>
+        <model>CR4</model>
+        <power>50W</power>
+        <finish>Black vinyl wrap</finish>
+        <price>139.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>Mackie</brand>
+        <model>CR4BT</model>
+        <power>120VAC</power>
+        <finish>Black vinyl wrap</finish>
+        <price>169.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>Adam Audio</brand>
+        <model>T7V</model>
+        <power>100VAC</power>
+        <finish>Matte Black</finish>
+        <price>249.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>Adam Audio</brand>
+        <model>T5V</model>
+        <power>100VAC</power>
+        <finish>Matte Black</finish>
+        <price>199.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>Behringer</brand>
+        <model>VP1800S </model>
+        <power>50W</power>
+        <finish>Black vinyl wrap</finish>
+        <price>279.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>Mackie</brand>
+        <model> MR824</model>
+        <power>85W</power>
+        <finish>Black vinyl wrap</finish>
+        <price>269.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>Focal</brand>
+        <model>Alpha 65</model>
+        <power>220V</power>
+        <finish>Vinyl and Black painting</finish>
+        <price>359.10</price>
+    </speaker>
+
+    <speaker>
+        <brand>Adam Audio</brand>
+        <model>A7X</model>
+        <power>50W</power>
+        <finish>Matte Black</finish>
+        <price>749.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>Fluid Audio</brand>
+        <model>FX80</model>
+        <power>100V</power>
+        <finish>Black vinyl wrap</finish>
+        <price>249.00</price>
+    </speaker>
+
+    <speaker>
+        <brand>Yamaha</brand>
+        <model>HS7</model>
+        <power>55W</power>
+        <finish>White Matte</finish>
+        <price>299.99</price>
+    </speaker>
+
+    <speaker>
+        <brand>PreSonus Eris</brand>
+        <model>E.45</model>
+        <power>50W</power>
+        <finish>Matte Black</finish>
+        <price>199.95</price>
+    </speaker>
+
+    <speaker>
+        <brand>Behringer</brand>
+        <model>B2030A</model>
+        <power>75W</power>
+        <finish>Black</finish>
+        <price>128.99</price>
+    </speaker>
+
+</product>

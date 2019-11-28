@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+
+    <record>
+        <artist>Led Zeppelin</artist>
+        <album>Led Zeppelin IV</album>
+        <genre>Rock</genre>
+        <label>Atlantic / Rhino</label>
+        <song_count>8</song_count>
+        <price>23.99</price>
+    </record>
+
+    <record>
+        <artist>Eagles</artist>
+        <album>Hotel California</album>
+        <genre>Rock</genre>
+        <label>Rhino</label>
+        <song_count>9</song_count>
+        <price>23.99</price>
+    </record>
+
+    <record>
+        <artist>The Beatles</artist>
+        <album>Rubber Soul</album>
+        <genre>Rock</genre>
+        <label>Capitol / EMI</label>
+        <song_count>14</song_count>
+        <price>20.99</price>
+    </record>
+
+    <record>
+        <artist>Ozzy Osbourne</artist>
+        <album>Diary of a Madman</album>
+        <genre>Rock</genre>
+        <label>Epic / Legacy</label>
+        <song_count>8</song_count>
+        <price>20.99</price>
+    </record>
+
+    <record>
+        <artist>Queen</artist>
+        <album>Greatest Hits</album>
+        <genre>Rock</genre>
+        <label>Hollywood</label>
+        <song_count>17</song_count>
+        <price>32.99</price>
+    </record>
+
+    <record>
+        <artist>John Lennon</artist>
+        <album>Imagine</album>
+        <genre>Pop</genre>
+        <label>Capitol</label>
+        <song_count>10</song_count>
+        <price>20.99</price>
+    </record>
+
+    <record>
+        <artist>The Doors</artist>
+        <album>Doors</album>
+        <genre>Rock</genre>
+        <label>Elektra / Rhino</label>
+        <song_count>11</song_count>
+        <price>23.99</price>
+    </record>
+
+    <record>
+        <artist>Muse</artist>
+        <album>Origin of Symmetry</album>
+        <genre>Alternative</genre>
+        <label>GC / Rhino / Warner Bros</label>
+        <song_count>11</song_count>
+        <price>22.99</price>
+    </record>
+
+    <record>
+        <artist>Fleetwood Mac</artist>
+        <album>Greatest Hits</album>
+        <genre>Rock</genre>
+        <label>Warner Bros</label>
+        <song_count>13</song_count>
+        <price>18.99</price>
+    </record>
+
+    <record>
+        <artist>ACDC</artist>
+        <album>Highway to Hell</album>
+        <genre>Rock</genre>
+        <label>Epic</label>
+        <song_count>10</song_count>
+        <price>22.99</price>
+    </record>
+
+    <record>
+        <artist>Soundgarden</artist>
+        <album>Superunknown</album>
+        <genre>Rock</genre>
+        <label>A&amp;M / Universal</label>
+        <song_count>16</song_count>
+        <price>28.99</price>
+    </record>
+
+    <record>
+        <artist>The Beatles</artist>
+        <album>1</album>
+        <genre>Rock</genre>
+        <label>Calderstone / Capitol</label>
+        <song_count>27</song_count>
+        <price>37.99</price>
+    </record>
+
+    <record>
+        <artist>The Notorious B.I.G.</artist>
+        <album>Greatest Hits</album>
+        <genre>R&amp;B</genre>
+        <label>Bad Boy / Rhino</label>
+        <song_count>17</song_count>
+        <price>29.99</price>
+    </record>
+
+    <record>
+        <artist>Jimi Hendrix</artist>
+        <album>Experience Hendrix: The best of Jimi Hendrix</album>
+        <genre>R&amp;B Soul</genre>
+        <label>Legacy</label>
+        <song_count>20</song_count>
+        <price>22.99</price>
+    </record>
+
+    <record>
+        <artist>Pink Floyd</artist>
+        <album>Dark Side of the Moon</album>
+        <genre>Rock</genre>
+        <label>Pink Floyd</label>
+        <song_count>10</song_count>
+        <price>29.99</price>
+    </record>
+
+</product>

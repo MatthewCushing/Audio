@@ -1,0 +1,26 @@
+{
+  "name": "Audio",
+  "version": "1.0.0",
+  "description": "Site that sells audio equipment and products",
+  "main": "index.js",
+  "scripts": {
+    "start": "run-script-os",
+    "start:darwin:linux": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 7777 --browser 'firefox-dev'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cushmatt/Audio.git"
+  },
+  "keywords": [],
+  "author": "Matt Cushing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cushmatt/Audio/issues"
+  },
+  "homepage": "https://github.com/cushmatt/Audio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "prettier": "^1.19.1",
+    "run-script-os": "^1.0.7"
+  }
+}
