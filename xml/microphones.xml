@@ -6,11 +6,10 @@
         <type>Dynamic</type>
         <connector>XLR</connector>
         <description>
-            Clear and present sound that's great for a wide range of sources
-            Exceptional versatility onstage and in the studio
-            Built to withstand a lifetime of serious abuse
+            Clear and present sound that's great for a wide range of sources.  Exceptional versatility onstage and in the studio.  Built to withstand a lifetime of serious abuse.
         </description>
         <price>89.00</price>
+        <image>./img/shure_sm57.png</image>
     </mic>
 
     <mic>
@@ -18,11 +17,10 @@
         <type>Condenser</type>
         <connector>XLR</connector>
         <description>
-            One of the world's quietest microphones
-            Effortlessly captures clear, clean audio
-            Affordable studio solution that won't distort due to overload
+            One of the world's quietest microphones.  Effortlessly captures clear, clean audio.  Affordable studio solution that won't distort due to overload.
         </description>
         <price>198.00</price>
+        <image>./img/rode-nt1-a.png</image>
     </mic>
 
     <mic>
@@ -30,11 +28,10 @@
         <type>Condenser</type>
         <connector>XLR</connector>
         <description>
-            Microphone of choice for lead artists in the industry in all genres for the last 60 years
-            Needs little instruction
-            Impressive versatility
+            Microphone of choice for lead artists in the industry in all genres for the last 60 years.  Needs little instruction.  Impressive versatility.
         </description>
         <price>696.60</price>
+        <image>./img/akg_c414.png</image>
     </mic>
 
     <mic>
@@ -42,11 +39,10 @@
         <type>Dynamic</type>
         <connector>XLR</connector>
         <description>
-            Excellent sound qualities that enable it to cope with the most diverse recording conditions
-            Feedback rejection and bass roll-off
-            Sturdy, reliable mic
+            Excellent sound qualities that enable it to cope with the most diverse recording conditions.  Feedback rejection and bass roll-off.  Sturdy, reliable mic.
         </description>
         <price>379.95</price>
+        <image>./img/sennheiser_md421.png</image>
     </mic>
 
     <mic>
@@ -54,11 +50,10 @@
         <type>Dynamic</type>
         <connector>XLR</connector>
         <description>
-            Amazing mic for both broadcast and recording
-            Flat, wide range frequency response
-            Will give years of great sound and performance
+            Amazing mic for both broadcast and recording.  Flat, wide range frequency response.  Will give years of great sound and performance.
         </description>
         <price>399.99</price>
+        <image>./img/shure_sm7b.png</image>
     </mic>
 
     <mic>
@@ -66,11 +61,10 @@
         <type>Dynamic</type>
         <connector>XLR</connector>
         <description>
-            Most popular handheld microphone in the world
-            Perfect for use live on stage or in your studio
-            Legendary Shure quality, ruggedness, and reliability
+            Most popular handheld microphone in the world.  Perfect for use live on stage or in your studio.  Legendary Shure quality, ruggedness, and reliability.
         </description>
         <price>89.99</price>
+        <image>./img/shure_sm58.png</image>
     </mic>
 
     <mic>
@@ -78,11 +72,10 @@
         <type>Tube Condenser</type>
         <connector>XLR</connector>
         <description>
-            The NTK can more than hold its own against sought-after vintage microphones that cost several times as much
-             Brings you the best of the classic and modern sonic worlds
-             Far more than you expect for the money
+            The NTK can more than hold its own against sought-after vintage microphones that cost several times as much.  Brings you the best of the classic and modern sonic worlds.  Far more than you expect for the money.
         </description>
         <price>529.00</price>
+        <image>./img/Rode_NTK.png</image>
     </mic>
 
     <mic>
@@ -90,11 +83,10 @@
         <type>Dynamic</type>
         <connector>XLR</connector>
         <description>
-            Smooth across a wide spectrum of frequencies
-            Virtually free of bass-boosting "proximity effect" when used close
-            Great for acoustic and electric bass and kick drum
+            Smooth across a wide spectrum of frequencies.  Virtually free of bass-boosting "proximity effect" when used close.  Great for acoustic and electric bass and kick drum.
         </description>
         <price>449.00</price>
+        <image>./img/electrovoice_re20.png</image>
     </mic>
 
     <mic>
@@ -102,11 +94,10 @@
         <type>Dynamic</type>
         <connector>XLR</connector>
         <description>
-            Kick drum standard mic for years
-            Used anywhere low frequency performance is a must
-            Its integrated flexible mount ensures you can always position it where it needs to be
+            Kick drum standard mic for years.  Used anywhere low frequency performance is a must.  Its integrated flexible mount ensures you can always position it where it needs to be.
         </description>
         <price>179.99</price>
+        <image>./img/akg_d112.png</image>
     </mic>
 
     <mic>
@@ -114,11 +105,10 @@
         <type>Condenser</type>
         <connector>USB</connector>
         <description>
-            The Yeti Studio captures great-sounding vocals
-            Record, edit, and more with PreSonus Studio One Artist
-            Sweeten your vocals with iZotope Nectar Elements
+            The Yeti Studio captures great-sounding vocals.  Record, edit, and more with PreSonus Studio One Artist.  Sweeten your vocals with iZotope Nectar Elements.
         </description>
         <price>189.99</price>
+        <image>./img/blue_yeti.png</image>
     </mic>
 
     <mic>
@@ -126,11 +116,10 @@
         <type>Condenser</type>
         <connector>USB</connector>
         <description>
-            Stylish design with integrated folding legs
-            Well-suited for studio recording as it is for mobile work
-            Provides a smooth frequency response across the spectrum
+            Stylish design with integrated folding legs.  Well-suited for studio recording as it is for mobile work.  Provides a smooth frequency response across the spectrum.
         </description>
         <price>59.99</price>
+        <image>./img/samsung_meteor.png</image>
     </mic>
 
     <mic>
@@ -138,11 +127,10 @@
         <type>Condenser</type>
         <connector>USB</connector>
         <description>
-            Smooth, extended frequency response
-            Crystal-clear, natural sound for podcasting, home studio recording, field recording, and voiceover use
-            Ideal for project/home-studio applications
+            Smooth, extended frequency response.  Crystal-clear, natural sound for podcasting, home studio recording, field recording, and voiceover use.  Ideal for project/home-studio applications.
         </description>
         <price>169.99</price>
+        <image>./img/audio_technica_usb.png</image>
     </mic>
 
     <mic>
@@ -150,11 +138,10 @@
         <type>Condenser</type>
         <connector>USB</connector>
         <description>
-            Cross-platform compatibility makes for a versatile recording solution
-            Stereo headphone jack for zero-latency monitoring
-            All-in-one package lets you start recording straight out of the box
+            Cross-platform compatibility makes for a versatile recording solution.  Stereo headphone jack for zero-latency monitoring.  All-in-one package lets you start recording straight out of the box.
         </description>
         <price>169.00</price>
+        <image>./img/rode_nt-usb.png</image>
     </mic>
 
     <mic>
@@ -162,11 +149,10 @@
         <type>Condenser</type>
         <connector>USB</connector>
         <description>
-            Excellent vocal reproduction
-            Versatile instrument microphone
-            Includes a stand and USB cable
+            Excellent vocal reproduction.  Versatile instrument microphone.  Includes a stand and USB cable.
         </description>
         <price>49.99</price>
+        <image>./img/blue_snowball.png</image>
     </mic>
 
     <mic>
@@ -174,11 +160,10 @@
         <type>Condenser</type>
         <connector>USB</connector>
         <description>
-            Tailored for voice, but suitable for detailed pickup of any source
-            Zero latency monitoring
-            Plug and Play connectivity
+            Tailored for voice, but suitable for detailed pickup of any source.  Zero latency monitoring.  Plug and Play connectivity.
         </description>
         <price>86.00</price>
+        <image>./img/shure_pg42.png</image>
     </mic>
 
 </product>

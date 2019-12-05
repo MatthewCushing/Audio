@@ -1,6 +1,7 @@
 :root {
   --font-primary: reross-rectangular, sans-serif;
-  --font-secondary: freight-display-pro, serif;
+  --font-secondary: roboto-condensed, sans-serif;
+  --font-quote: freight-display-pro, serif;
   --color-primary: #393f4d;
   --color-accent: #ff5a09;
 }
@@ -26,6 +27,7 @@ body {
 a {
   color: white;
   text-decoration: none;
+  transition: all 0.3s ease-in-out;
 }
 
 a:hover,
@@ -54,11 +56,11 @@ a:focus {
   margin-left: 100px;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: 1fr 1fr auto;
 }
 
 .main-quote {
-  font-family: var(--font-secondary);
+  font-family: var(--font-quote);
   font-size: 35px;
   color: var(--color-accent);
   margin-left: auto;
@@ -119,9 +121,16 @@ a:focus {
 }
 
 .xquery-wrapper h2 {
-  font-family: var(--font-secondary);
+  font-family: var(--font-quote);
 }
 
 .xquery-wrapper img {
   max-width: 500px;
+}
+
+footer {
+  font-family: var(--font-secondary);
+  font-weight: 300;
+  font-size: 16px;
+  text-align: center;
 }

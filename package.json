@@ -22,5 +22,6 @@
     "browser-sync": "^2.26.7",
     "prettier": "^1.19.1",
     "run-script-os": "^1.0.7"
-  }
+  },
+  "dependencies": {}
 }
