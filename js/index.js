@@ -48,10 +48,10 @@ request.onload = () => {
         divs[i].innerHTML += `
         <img class="item-image" src="${imageURL[i]}" />
         <p class="item-description">${description[i]}</p>
-        <div class="item-price">
+        <a href="./register.html" class="item-price">
           <p>ONLY</p>
           <p class="price">$${price[i]}</p>
-        </div>
+        </a>
         `;
 
         // Setting the display to none for now until click event happens
