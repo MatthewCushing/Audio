@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="https://use.typekit.net/fpn0nyq.css" />
+    <link rel="stylesheet" href="../css/register.css" />
+    <title>Register</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="nav-wrapper">
+        <nav class="generic-nav">
+          <h2 class="generic-logo">
+            <a href="./index.html">AUDIO</a>
+          </h2>
+          <div aria-hidden="true"></div>
+          <a class="generic-nav-item nav-selected" href="./xml/microphones.xml"
+            >MICS</a
+          >
+          <a class="generic-nav-item" href="./xml/speakers.xml">SPEAKERS</a>
+          <a class="generic-nav-item" href="./xml/headphones.xml">HEADGEAR</a>
+          <a class="generic-nav-item" href="./xml/records.xml">VINYL</a>
+          <a class="generic-nav-item" href="./xml/turntables.xml">TURNTABLES</a>
+          <a class="generic-nav-item nav-last" href="./xquery.html">XQUERY</a>
+        </nav>
+      </div>
+
+      <main class="main-wrapper">
+        <div class="hero">
+          <img
+            class="hero-image"
+            src="../img/turntable_buttons.png"
+            alt="Image of a turntable as background hero image"
+          />
+          <h1 class="hero-logo">AUDIO</h1>
+        </div>
+
+        <div class="content">
+          <div class="errors">
+            <p class="form-error">You need to be signed in to do that</p>
+            <p class="email-error">You must fill in a valid email</p>
+            <p class="text-error">You must fill in all the fields</p>
+            <p class="date-error">You must fill in a valid date</p>
+            <p class="email-match-error">Your emails do not match</p>
+            <p class="password-match-error">Your passwords do not match</p>
+          </div>
+
+          <div class="form">
+            <h2 class="form-title">REGISTER</h2>
+            <form name="form" action="#">
+              <div class="input-element">
+                <label for="username">
+                  <div>Username</div>
+                  <input
+                    name="username"
+                    id="username"
+                    placeholder="Username"
+                    type="text"
+                  />
+                </label>
+              </div>
+
+              <div class="input-element">
+                <label for="date">
+                  <div>Date of Registration</div>
+                  <input
+                    name="date"
+                    id="date"
+                    placeholder="01/01/1989"
+                    type="text"
+                  />
+                </label>
+              </div>
+
+              <div class="input-element">
+                <label for="email">
+                  <div>Email</div>
+                  <input
+                    name="email"
+                    id="email"
+                    placeholder="example@example.com"
+                    type="email"
+                  />
+                </label>
+              </div>
+
+              <div class="input-element">
+                <label for="confirm-email">
+                  <div>Confirm Email</div>
+                  <input
+                    id="confirm-email"
+                    name="confirm-email"
+                    placeholder="example@example.com"
+                    type="email"
+                  />
+                </label>
+              </div>
+
+              <div class="input-element">
+                <label for="password">
+                  <div>Password</div>
+                  <input
+                    name="password"
+                    id="password"
+                    placeholder="Password"
+                    type="password"
+                  />
+                </label>
+              </div>
+
+              <div class="input-element">
+                <label for="confirm-password">
+                  <div>Confirm Password</div>
+                  <input
+                    name="confirm-password"
+                    id="confirm-password"
+                    placeholder="Password"
+                    type="password"
+                  />
+                </label>
+              </div>
+
+              <button onclick="onSubmit()" class="submit-button" type="submit">
+                CREATE ACCOUNT
+              </button>
+            </form>
+            <a class="login link-underline" href="#"
+              >Already have an account? Login!</a
+            >
+          </div>
+        </div>
+      </main>
+    </div>
+    <script src="../js/register.js"></script>
+  </body>
+</html>
