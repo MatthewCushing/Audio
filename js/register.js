@@ -50,21 +50,27 @@ const checkPassword = () => {
   let confirmPassword = document.querySelector('#confirm-password');
 
   if (password.value === '' && password.value.match(confirmPassword)) {
-    password.value === ''
-      ? (document.querySelector('.text-error').style.display = 'block')
-      : (document.querySelector('.password-match-error').style.display =
-          'block');
+    document.querySelector('.text-error').style.display = 'none';
     password.focus();
-    return false;
+    return true;
   }
 
-  document.querySelector('.text-error').style.display = 'none';
+  password.value === ''
+    ? (document.querySelector('.text-error').style.display = 'block')
+    : (document.querySelector('.password-match-error').style.display = 'block');
   password.focus();
-  return true;
+  return false;
 };
+
+function stopReloadOnSubmit(e) {
+  console.log(e);
+  e.preventDefault();
+}
 
 const onSubmit = () => {
   document.querySelector('.form-error').style.display = 'none';
+  const form = document.querySelector('#main-form');
+  form.addEventListener('submit', stopReloadOnSubmit);
 
   if (checkUsername()) {
     if (checkDate()) {
