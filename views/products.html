@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="https://use.typekit.net/fpn0nyq.css" />
+    <link rel="stylesheet" href="../css/products.css" />
+    <title>Products</title>
+  </head>
+  <body>
+    <div class="buttons-container">
+      <button onClick="toggleHeadphoneDisplay()">Toggle Headphones</button>
+      <button onClick="toggleMicrophoneDisplay()">Toggle Microphones</button>
+      <button onClick="toggleRecordDisplay()">Toggle Records</button>
+      <button onClick="toggleSpeakerDisplay()">Toggle Speakers</button>
+      <button onClick="toggleTurntableDisplay()">Toggle Turntables</button>
+    </div>
+    <div class="container">
+      <div class="turntable-container">
+        <h1>turntables</h1>
+        <table id="table_turntable"></table>
+      </div>
+      <div class="speaker-container">
+        <h1>speakers</h1>
+        <table id="table_speakers"></table>
+      </div>
+      <div class="record-container">
+        <h1>records</h1>
+        <table id="table_records"></table>
+      </div>
+      <div class="microphone-container">
+        <h1>microphones</h1>
+        <table id="table_microphones"></table>
+      </div>
+      <div class="headphone-container">
+        <h1 class="as">headphones</h1>
+        <table id="table_headphones"></table>
+      </div>
+    </div>
+    <script src="../js/products.js"></script>
+  </body>
+</html>
